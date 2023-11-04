@@ -15,6 +15,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Test")
+            Text("workflow 실행 테스트")
         }
         .padding()
     }
